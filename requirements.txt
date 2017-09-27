@@ -1,0 +1,2 @@
+virtualenv==15.1.0
+lxml==3.4.2
