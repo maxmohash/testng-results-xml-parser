@@ -18,7 +18,7 @@ Now to run the parser just type in virtualenv
 
 `python testng_results_parser.py`
 
-## or you can use the Makefile commands in this repo to install everything by the below given commands:
+## You can also Use Makefile commands to install everything:
 
 `make clean freshstart`
 
