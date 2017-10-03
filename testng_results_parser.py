@@ -1,5 +1,6 @@
 from lxml import etree
 import urllib
+# Enter your testng results xml url below:
 url = "http://example.com/testng-results.xml"
 root = etree.parse(urllib.urlopen(url))
 

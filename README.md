@@ -14,12 +14,16 @@ Best practice to use the virtualenv by following the below steps:
 
 `source venv/bin/activate`
 
-Now to run the parser just type in virtualenv
-
-`python testng_results_parser.py`
-
-## You can also Use Makefile commands to install everything:
+#### You can also Use Makefile commands to install everything:
 
 `make clean freshstart`
 
-Now Parse and Enjoy!
+#### Enter the required detail in the the line given below to use this parser for your personal use:
+
+`https://github.com/maxmohash/testng-results-xml-parser/blob/master/testng_results_parser.py#L3`
+
+### Now to run the parser just type in virtualenv
+
+`python testng_results_parser.py`
+
+#### Now Parse and Enjoy!
